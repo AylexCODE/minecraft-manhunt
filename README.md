@@ -1,1 +1,1 @@
-# Minecraft Manhunt
+# Minecraft Java Manhunt
